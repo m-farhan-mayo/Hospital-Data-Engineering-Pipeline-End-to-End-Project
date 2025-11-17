@@ -1,0 +1,210 @@
+doctor_id,first_name,last_name,speciality,experience_years
+6a7be676-4dae-4b4c-bf69-2734c6f9a062,Ethan,Fleming,Orthopedics,10
+e68608a7-8d0a-4324-a047-6c478093febc,Kevin,Tran,Oncology,EXP_ERR
+ef20c2de-cd01-42f7-96bf-ce48448452f9,Bryan,Vasquez,General Medicine,
+b2b0f59d-a181-44be-9de2-b32385160cdf,Joshua,Douglas,Cardiology,20
+0bbe4c67-7b88-46ee-aa67-f09014319eb3,Brian,Faulkner,Orthopedics,
+6d34c381-6036-4753-85eb-0e46fe7d96ff,Christina,Frazier,Orthopedics,EXP_ERR
+a02cca79-b4c2-4a57-9006-edbd769ff7f8,Pamela,Miller,Neurology,14
+4529c1a1-2e76-46bc-9901-e5290caca256,Nicholas,Deleon,Orthopedics,21
+f75414ce-fec3-4daf-8659-557c3582ac58,Hannah,Farrell,General Medicine,29
+41e929eb-4345-4002-9bf3-1e9251dc870d,Lisa,Newman,General Medicine,25
+0f428494-ec2d-49f1-bbe1-5d49cced111b,Katrina,Hernandez,Orthopedics,12
+84fcac24-1914-4078-8526-aeb1d369fb57,Aaron,Gibbs,Neurology,EXP_ERR
+35a6f89d-61b7-47b5-9a26-ca16d08b9f0d,Jennifer,Hart,Orthopedics,EXP_ERR
+163a12e8-4f21-4dfd-8bbd-717a302fe268,James,Johnson,General Medicine,
+3a688342-5d6d-45d3-938c-2d7101df6814,Antonio,Bradshaw,Neurology,
+ad3cefd0-3318-48c8-aced-fb13a780ea46,Angela,Anderson,Cardiology,
+ad3cefd0-3318-48c8-aced-fb13a780ea46,Angela,Anderson,Cardiology,
+28b6fe64-16a8-4cdc-a62d-454975ef5ade,James,Gordon,Neurology,EXP_ERR
+39567704-f95e-4639-a5d8-09d007d14270,Stephen,Walker,Cardiology,31
+137cdc1a-9aec-404c-a310-d35d50588b7e,Howard,Farmer,Oncology,27
+0a11df93-0534-443e-9fc0-463d3614ee21,Daniel,Moore,Neurology,9
+db0079f0-7b69-4a22-8627-9b7a1cd1a3ec,Lisa,Clark,Oncology,37
+ec42abfd-b4dd-48fd-a926-a1c9d405b817,Joseph,Jones,Orthopedics,19
+f4273427-e24a-4a1b-ba32-e318888cf80e,Rachel,Yang,General Medicine,39
+3f8211a1-73ab-4978-b057-d23cfe6183ec,Tammy,Williams,Cardiology,EXP_ERR
+45cd4d92-4f22-4bb5-a0ff-090881345e53,Crystal,Romero,General Medicine,
+e5b944d1-3467-442d-8ffa-1278d206e26e,Bridget,Hughes,Orthopedics,39
+1c0c8b56-5a70-4525-82c9-05183729b95d,Ruth,Lewis,General Medicine,30
+e2bd0757-c8b7-40f3-9b66-74886c94b6ec,Christian,Wilson,Neurology,36
+1b8710ba-3f66-4630-849a-c003a59a01d1,Stephen,Ortiz,General Medicine,6
+d23b2842-8c40-4495-a9a9-32de2e76bf85,Danny,Davis,General Medicine,EXP_ERR
+b3f83734-f5f3-4345-a86a-a51def0aa23d,Kimberly,Perry,Oncology,7
+535d2466-f531-47cc-9c8d-a7b3d03dafe6,Mary,Jimenez,Neurology,EXP_ERR
+ea294e9d-1016-4d8a-baca-b960236b8ddd,Kirsten,Hill,Cardiology,EXP_ERR
+6aa6309d-b0cb-4233-af02-060a87b29141,David,Henson,General Medicine,
+ab6d0238-c648-48d9-9a84-0b47ed0f43c3,Michael,Anderson,General Medicine,5
+ab6d0238-c648-48d9-9a84-0b47ed0f43c3,Michael,Anderson,General Medicine,5
+dfed873a-542e-4735-abb0-f79470ced7ea,Christine,Campbell,Cardiology,22
+1d3596c7-4405-4c28-b752-89faa5e1c9b4,Jonathan,Estrada,Oncology,9
+30e716e1-e4ad-4f14-91f8-cbac1db28b66,Jason,Jackson,General Medicine,19
+c8a8229d-1b1a-4b1c-95bf-29ccf1eabdfa,Victoria,Jones,Orthopedics,16
+9aca7ed0-e8ca-4f0f-8593-a264ab59ff2b,Michael,Garcia,Neurology,
+9aca7ed0-e8ca-4f0f-8593-a264ab59ff2b,Michael,Garcia,Neurology,
+c65d0e0c-9838-4ffc-ad17-05c4f06de26a,Shane,Reid,Orthopedics,18
+815ea65c-bd9d-4888-aaaa-58970be3ca05,Shelly,Walsh,Neurology,
+d296a47e-0e01-4bf1-aa44-13a0ab6123e5,Cody,Jackson,General Medicine,
+1cee252e-5cc8-4446-83c4-f9ed8d7eec9e,Charles,Carlson,General Medicine,
+11996261-8af9-43aa-b499-c601c5c028b9,Marie,Williams,Orthopedics,EXP_ERR
+82115fea-461d-43d9-aad2-ea039c01e2da,Gregory,Mills,Oncology,13
+f555edb0-4235-4688-8b5f-61bcaca4cbc2,Elizabeth,Mcguire,Oncology,21
+7d978ca8-e376-44fe-ad6f-af4ce9dbf232,Sandra,Thomas,Oncology,
+0d2fcfe3-353f-427b-9514-c20eb657a5c0,Donna,Gates,General Medicine,
+efd9819a-0060-4981-8156-8d3b739ba711,Eric,Clark,Cardiology,EXP_ERR
+3107ec36-e186-4365-b0d4-eca71d199dff,Sheila,Maxwell,General Medicine,
+9bc8ffbe-5165-4088-874d-9e725028391d,Samantha,Garner,Oncology,18
+377d20bc-4e79-4f87-9e93-9eb69dbfae5d,Ariana,Campbell,Cardiology,EXP_ERR
+8adb5f4b-a291-4304-a341-1d90453de44c,Melissa,Wilson,Orthopedics,
+0e001d0c-0ca5-4bd8-9420-c675cddfbc1b,Nicole,Mejia,Cardiology,38
+0e001d0c-0ca5-4bd8-9420-c675cddfbc1b,Nicole,Mejia,Cardiology,38
+c43ba56c-076c-437e-aeeb-3c57c874991a,Isabella,Robinson,Oncology,23
+e910ee27-0a8f-4dae-b32b-92dfeb55bef9,Matthew,Richards,Neurology,30
+0e0f9939-ff8d-4ea9-bedf-d5beb9b274b6,Jason,Ellis,Neurology,EXP_ERR
+741ac146-eb73-4b37-8416-d283f2776989,Patrick,Porter,Neurology,
+e8824b71-4cc6-4bbb-831c-e89e0d66d913,Benjamin,Barron,Neurology,EXP_ERR
+9552a8ab-c7d3-450a-94cb-6710b5dbc8dc,Thomas,Winters,Orthopedics,38
+58d7c071-5024-4d23-8696-4217ac5f95a8,Natalie,Harris,Orthopedics,18
+a6861228-1b0e-4096-84b6-cf9602fea3b1,Carl,Lee,Neurology,30
+cb616892-a4f6-4370-95a6-cba6762769b9,Vicki,Grant,General Medicine,36
+aae4d40b-c182-478f-90bd-565b9b11e8eb,Phillip,Hampton,Orthopedics,28
+4e0a7a81-a6c6-4a61-9e6a-31183cd6706f,Michelle,Moore,Orthopedics,32
+3ed42c58-fbbb-4303-8b10-2a7c4a81be8c,Phillip,Mahoney,Orthopedics,20
+4e559ed0-6efe-44b5-bed5-690003701148,Taylor,Lee,Oncology,40
+7701e621-4559-41fe-99b8-dde83e2c1a88,Briana,Phillips,General Medicine,38
+5585e54b-85eb-44ea-99a0-5bd38b105a98,Amy,Hanson,Oncology,
+9d534030-6f02-4582-a41c-c7791c741da1,Nicholas,Fisher,Neurology,18
+87d15e37-619d-4190-afd5-5b74e65e7923,Kevin,Moran,Oncology,26
+677126d2-5079-450b-b6e8-890a99a1e743,Lonnie,Gray,Orthopedics,25
+4013e575-935f-4062-b92b-05a85a7a4c4f,Emily,Grant,Orthopedics,
+4422f048-999e-4c21-b511-e7ea45bbd053,Nicholas,Mcbride,Neurology,8
+383ed657-52a7-4999-ba44-c6589ec5adac,Pamela,Clark,Oncology,
+52e792c9-9a79-4397-8f29-576b57e589af,Robin,Martinez,General Medicine,23
+95b21dcc-c863-4d86-95e5-db902ae19e46,Dawn,Roy,Neurology,
+4977ba75-1d11-4c8b-b088-c1cfce504821,Mary,Miller,Orthopedics,
+3f984f55-a1eb-4070-a2f6-15ca6f358d59,Jeremiah,Stephens,Cardiology,EXP_ERR
+562f8da9-7b99-4e2d-81f6-1c5f7a280cfc,Nichole,Stevens,General Medicine,
+52d5db8c-6258-4f18-ad56-7f653de316c2,Jorge,Li,Cardiology,2
+ad856317-8788-46c3-994b-94e024efc9dc,Nicholas,Boyd,Cardiology,1
+2d69836f-6fef-4427-801f-d65d84da8f9d,Willie,Phillips,Oncology,
+2d69836f-6fef-4427-801f-d65d84da8f9d,Willie,Phillips,Oncology,
+3dcaa77e-5fa0-43b8-81c1-49bdefd505f3,Duane,Chavez,Oncology,19
+3dcaa77e-5fa0-43b8-81c1-49bdefd505f3,Duane,Chavez,Oncology,19
+795f15f4-6758-4668-945d-89c40ce83625,Daniel,Larson,Cardiology,
+23c2d6c8-22d7-4a10-9c7d-ce907cd07187,Thomas,Jones,Orthopedics,
+bd3a7eef-0709-4c70-8f06-6edbf701c2e7,Patrick,Bell,Neurology,1
+dd632b25-ae6d-49f0-b556-adcfde927151,Alan,Scott,Orthopedics,3
+3afa1fcb-2efb-442f-b28d-a0f2aa63c003,Justin,Gonzalez,Neurology,36
+fd1e983c-58de-4bee-8902-7857634559b6,Ana,Quinn,Orthopedics,32
+c0d48f0e-49d2-4a39-b964-83f67c7b830f,Mario,Valdez,Neurology,EXP_ERR
+8c5c553c-e270-447f-a2db-7e46aa5162a2,James,Graham,General Medicine,
+275524e6-6541-427b-9c13-d40d00f5ed81,Andrea,Melendez,Orthopedics,
+2175032d-fb0c-4ce4-b48d-975926f531d0,Brian,Sanchez,Neurology,9
+9cb4ad35-0d0b-4af6-9697-8b34947e3b83,Richard,Baker,Neurology,
+a5f8a9d7-0ef7-4e5e-bdc7-c29affc31962,Alexis,Thompson,General Medicine,33
+caeb6cfc-fb83-4356-88a9-5d2f0d600999,Alexis,Cole,Cardiology,36
+14819870-99e6-45ba-8065-039b057cdf87,Nicole,Pena,Cardiology,EXP_ERR
+8783d545-a73d-4e33-8ffd-b794a774a005,Jennifer,Bryant,Neurology,16
+54569e13-3d59-4d78-8213-228798a713c7,Jermaine,Nelson,Neurology,
+37e4d212-d5fe-4936-8209-0bcfb1d12d72,Kristen,Turner,Neurology,29
+82535946-81bc-48ca-8c4d-e98c725ff1f3,John,Mills,Oncology,40
+4351cc8b-e7f4-4be5-8306-f67a1645833c,Shannon,Gonzalez,Cardiology,38
+dfd9d8b6-54c3-46e8-968a-ffbee88834ec,Sheila,Fernandez,General Medicine,
+d0b1dbd8-2fff-435b-819e-ee2048b06195,Guy,Moreno,Cardiology,20
+121755ab-029e-41ef-9f19-ae570ab0322b,Raven,Ruiz,Cardiology,35
+b5b4bcef-5b72-4cef-ae29-bf2242244c58,Kathleen,Contreras,Oncology,
+3a248559-700a-430d-b61e-77f378938045,John,Roy,General Medicine,
+4d93ac0d-79e1-434f-a3fb-a96b86830635,Robert,Allen,Neurology,1
+d1e7c795-bc78-425b-8f95-74e7f76b00f5,Jennifer,Conway,Cardiology,40
+b671372c-5c22-4138-8770-c07721d8de46,Emma,Hawkins,Orthopedics,12
+3278298b-0a67-4ce3-afd5-e05491713ed5,Tina,Campbell,Oncology,EXP_ERR
+9ee3b48e-8249-4ac4-9751-afb7e28e4a70,Timothy,Vaughn,Neurology,EXP_ERR
+9958da39-78a7-4c6f-ac53-fbc84d41a948,Cynthia,White,General Medicine,29
+9db8b4e2-5789-4669-8ed9-1ef0249b4e30,Angela,Martin,Neurology,30
+63fc3103-a759-48e0-b83b-0f8f6c0452ed,Timothy,Irwin,Oncology,
+91d903d1-213e-4dc9-b879-6a5444b13aed,Curtis,Mcbride,Orthopedics,25
+8f2fd715-6a21-4860-93de-124b0e9b3580,Alicia,Wilkins,Oncology,22
+8f2fd715-6a21-4860-93de-124b0e9b3580,Alicia,Wilkins,Oncology,22
+22c0d94c-25ad-412b-a885-5f75600e6cbd,Anna,Kline,Oncology,23
+f3c00a32-7094-4750-bb44-1e657aca9dc3,Justin,Castillo,Neurology,26
+adece01b-7f60-4894-b864-0c280b1be2f4,Kaylee,Thomas,Neurology,EXP_ERR
+668afd71-60cd-4b5e-8de8-76955ce5691b,Stephanie,Singleton,Oncology,10
+1fb795bb-11f8-434d-86ec-1e17a39f46a5,David,Cunningham,Neurology,EXP_ERR
+c09f13d9-d711-4f67-a4e2-0e352008906c,Anna,Manning,Orthopedics,21
+9d3fde9a-41de-475f-a91d-632873b15d6e,Tammy,Jackson,Cardiology,
+42c989c0-cff1-4800-a296-1a6a4cf829c6,Sarah,Mclean,Orthopedics,26
+c2e43c49-a3fc-4012-8acc-cdc850192a4a,Cody,Salas,General Medicine,35
+ac388919-ad64-4ebd-8fd2-1aa10ec26616,Travis,Rogers,Orthopedics,EXP_ERR
+0c5ad13b-646f-45f7-b696-320860e8dbf5,Meagan,Morales,Oncology,
+3d9e6678-3e16-48f3-a7a8-c4dbb50099fd,Robert,Taylor,Orthopedics,
+43094bbf-2669-4da5-b64e-480377701857,Jacqueline,Davis,General Medicine,34
+216faa5b-1f0f-43de-925d-12935eb5a919,Daniel,Bell,General Medicine,EXP_ERR
+6b4ab537-0051-4450-a5d7-ced4c1f962db,Cheyenne,Proctor,Orthopedics,4
+25f80604-aa36-46c1-8b30-6925f0f861a6,Ashley,Reyes,Orthopedics,EXP_ERR
+2bb20dfa-2f9d-4b19-8c4c-17a03a7e72f2,Jessica,Vargas,Cardiology,
+2bb20dfa-2f9d-4b19-8c4c-17a03a7e72f2,Jessica,Vargas,Cardiology,
+adc94e76-0ca7-4995-b578-710731a72897,Anthony,Sims,Orthopedics,38
+d9a4d8f0-78e9-4733-a4d3-7821a64788f0,Lindsey,Barajas,Cardiology,11
+63223e58-70e7-46ad-a25c-3f85b0ab06ea,Morgan,Le,Neurology,36
+fb4ffeb9-9cd2-4be7-a5bd-13302cc15620,Connie,Frank,Orthopedics,EXP_ERR
+d7549223-771b-429b-9180-65ed692f7a5b,Joseph,Mccullough,Oncology,EXP_ERR
+a7be1b82-0317-40e3-82d9-90aa0dbafcdd,Emily,Owens,Neurology,
+35676491-b05f-4f4a-968f-0d6878d4280d,Jeffrey,Lewis,Orthopedics,
+8cbec0d8-ec6c-428f-903a-d12749a77b5c,Mark,Baker,Neurology,34
+b8582bfb-3d5d-4473-aa25-6fe81de880f4,Stacey,Reyes,Orthopedics,35
+7ec5dbf5-b772-4b22-8dbf-3b0595bfc876,Anthony,Woods,Oncology,EXP_ERR
+c0d43c24-7a55-4e06-83f9-daab34c3a168,Morgan,Mccoy,Orthopedics,4
+2641feae-b5aa-430c-8cef-41f7378b1949,Willie,Smith,Oncology,11
+a24f1018-f3a9-4e39-a4b5-6eff880228da,Brian,Smith,Neurology,
+a719d5ef-f0ec-4744-ab53-8326bcb00273,Michael,Walker,General Medicine,3
+529467ac-ee78-4b53-82c9-c7d5335aaa6b,Sarah,Conley,General Medicine,35
+5b8b1178-6b55-4849-99d7-bec3cfd33ea8,Andrew,Stephenson,Neurology,20
+e48fdea4-451d-49bc-acb1-61a41a952d53,Madeline,Howard,Orthopedics,
+0006c4eb-dc60-4d62-bc57-fff2825b7b80,Thomas,James,Oncology,37
+4e6211ca-1829-4216-b9fb-eb9877403e1b,David,Wright,Cardiology,23
+d6bd53f6-bb5f-452b-8a51-de56184c89fc,Kelly,Cardenas,Neurology,25
+fc4d75be-b501-4992-9f6f-4146d16f4ec7,Matthew,Dunn,Neurology,10
+30d46836-df45-4a8d-8a73-bad5ac3ddde8,Danielle,Fleming,General Medicine,18
+ec420952-f66a-435b-944f-658f0ea4446c,Monique,Riggs,Orthopedics,EXP_ERR
+dd682adf-5444-4470-b33f-c7d00dccd004,Sarah,Copeland,Orthopedics,37
+e15868ef-5121-4a4e-af27-928baac134f6,Frances,Deleon,General Medicine,25
+33227aba-4d7f-4685-8b53-051ad3d933dc,Amy,Delgado,Orthopedics,EXP_ERR
+155b3097-6291-46a5-8cbe-715df250f594,Matthew,Garcia,General Medicine,32
+d3772f0d-40f8-4755-9b7f-64d2b633dd06,Tanya,Henson,Orthopedics,EXP_ERR
+e84d7eac-52a4-4aed-9995-3f29a4dc41f6,Shelby,Holt,Orthopedics,EXP_ERR
+f6c97d60-8d4a-4679-9ddf-b3d449392ccd,Laura,Phillips,General Medicine,EXP_ERR
+ca071ede-e718-40d2-bab8-f3129162af50,Tina,Harris,Cardiology,EXP_ERR
+cc7d8958-eb63-405b-a2db-af6a1f5b71df,Steven,Powell,Neurology,
+e1e4a8c9-f3fd-46c5-b48e-3c08ede6c084,Michelle,Reynolds,Oncology,EXP_ERR
+e1e4a8c9-f3fd-46c5-b48e-3c08ede6c084,Michelle,Reynolds,Oncology,EXP_ERR
+e0e889bd-2b1a-4dd1-970c-00e1480eae83,Jennifer,Morales,General Medicine,20
+31b892a2-b194-47a7-be61-e62ce2b8d420,Danielle,Hawkins,Cardiology,
+0c2b68fd-f2cf-4eae-bf01-2693b6c2e912,James,Mccoy,Oncology,23
+e0bd23d6-5e83-4094-9bdd-0fb99fbb60cb,Monica,Guzman,Oncology,39
+ee74ad43-3971-4516-a974-ed54ce705322,Kenneth,Hernandez,Cardiology,2
+d5996d93-4077-4852-872f-b7c60830c60e,Joshua,Rowe,General Medicine,EXP_ERR
+2d332850-471c-4d85-89a1-5069f31f1757,Ethan,Olsen,Neurology,40
+0f81d1a6-f0db-4cc5-a3c9-dd8c03bdc361,Karen,Mendoza,Oncology,EXP_ERR
+534f1419-1810-4a42-a062-39f46e9d6684,Lisa,Becker,General Medicine,EXP_ERR
+26eb0c4a-afc7-4b55-b680-ae48e93df060,Anita,Price,Neurology,26
+50e0943d-f946-4bf6-aea9-058d3bdb1c27,Allison,Chapman,Orthopedics,34
+faa51f4d-aa48-424d-aa60-c603f4948832,Joe,Nelson,General Medicine,20
+5d0280c8-40a6-4dd1-b02f-435411be3970,John,Mcfarland,General Medicine,13
+68aedf0c-c015-451f-9bdd-2a9c772975e9,Cody,Buckley,Cardiology,10
+564fa322-9d7a-4258-9ebc-34cac1b07042,Cynthia,Jones,Cardiology,40
+66e5b514-a4b7-41d3-88fb-73aef1ddc121,William,Shea,Oncology,1
+9d4cedb4-6106-4773-bc94-cbf19e1876f3,Frances,Johnson,Cardiology,EXP_ERR
+f512416b-3522-443a-940b-aa06de429540,Justin,Benton,General Medicine,28
+4fbd48be-1b21-4414-bc58-568a1d0b3a2d,Gail,Moon,Oncology,24
+1f0a6fbe-f850-4498-8361-d8990595c7d4,Sophia,Lloyd,Orthopedics,EXP_ERR
+18026a68-1171-4529-8c77-9dfaf10b8543,Travis,Jackson,Neurology,EXP_ERR
+bc723db5-9825-45cd-95ee-ae2753e529d5,Hannah,Lozano,Oncology,
+4fe2e9bb-d700-42ef-a131-7bdd26d7bba3,Shawn,Kelley,Oncology,EXP_ERR
+6975de65-0d7b-435b-93b9-ab4884f69e9e,Ronald,Thompson,General Medicine,33
+01867676-c88a-4acb-9f4c-389a9f43e0bb,Michael,Perez,Oncology,
+a95e2881-81d7-49cd-b371-cdd97823c184,Matthew,Harris,Orthopedics,EXP_ERR
+e5a13215-54a2-41e5-b020-4c4246dd6bab,Tracy,Johnson,Orthopedics,18
+0edcfe76-5764-4318-aab2-09271b04887d,Nichole,Weaver,Oncology,
+8886ba65-d7f6-48d5-a176-ed525d705040,Joe,Powell,General Medicine,EXP_ERR
+83f07c13-b1a9-4cfb-b2d5-d61279c08f98,Samantha,Gonzalez,General Medicine,7
+3d3be09f-46c0-40c9-8989-b13d4d43c1e5,Kelsey,Nelson,Orthopedics,EXP_ERR
